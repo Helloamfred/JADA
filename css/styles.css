@@ -104,7 +104,7 @@ header {
       rgba(0, 0, 0, 0.5),
       rgba(0, 0, 0, 0.8)
     ),
-    url("/assets/Photo\ by\ Jason\ Jarrach\ on\ Unsplash.jpeg");
+    url("./assets/Photo\ by\ Jason\ Jarrach\ on\ Unsplash.jpeg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
